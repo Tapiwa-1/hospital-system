@@ -1,0 +1,94 @@
+:root{
+    --blue: hsl(228, 100%, 18%);
+    --gold:#FFB400;
+    --light:rgba(215, 254, 255, 1);
+}
+body{
+    font-weight:550;
+    font-family: sans-serif;
+}
+nav,
+.headings,
+.footer{
+    background: rgb(215,254,255) !important;
+    background: radial-gradient(circle, rgba(215,254,255,1) 0%, rgba(255,255,255,1) 100%) !important;
+}
+nav .nav-item a{
+    color: var(--blue) !important;
+}
+nav .nav-item a:hover{
+    color: var(--gold) !important;
+}
+#nav-toggle-button span{
+    color:  var(--blue) !important;
+}
+.carousel-caption{
+    color: var(--blue) !important;
+}
+
+.home {
+    background: url(../img/home.jpg);
+}
+.about-us{
+    background: url("../img/about.jpg");
+}
+.contact{
+    background: url(../img/contact.jpg);
+}
+.services {
+    background: url(../img/services.jpg);
+}
+
+.banner{
+    background-position: center;
+}
+.text-area{
+    height: 200px !important;
+}
+.btn-color{
+    background-color: var(--blue) !important;
+    color: var(--gold) !important;
+}
+.btn-color:hover{
+    background-color: var(--gold) !important;
+    color: var(--blue) !important;
+}
+.text-acsent{
+    color: var(--gold) !important;
+}
+.right-side{
+    background-color: var(--blue) !important;
+    height: 100% !important;
+}
+footer
+{
+    position: fixed !important;
+    bottom: 0;
+    width: 100%;
+}
+.navdash{
+    color: #FFB400 !important;
+    background-color: var(--blue) !important;
+}
+
+/*Scoll bar*/
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: hsl(228, 100%, 18%);
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #FFB400;
+}
