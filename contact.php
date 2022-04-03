@@ -1,21 +1,21 @@
 <?php include("layout/navbar.php"); ?>
 <div class="container contact banner">
     <div class="row ">
-        <h1 class="my-md-5 py-5 text-center">Get in touch With us</h1>
+        <h1 class="my-md-5 py-5 text-center">GET IN TOUCH WITH US</h1>
     </div>
 </div>
 <div class="container">
     <div class="row my-2">
         <div class="col-md-5">
             <h3>Talk to us</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Nam impedit eius at quia a quidem quae eum ab repudiandae dolores non aspernatur
-                laudantium obcaecati eaque, magni nobis suscipit inventore iure!
+            <p>We love to get feedback from the public on how well we offer our services 
+                and advice on what you feel should be changed. Reach out to us anonymously using
+                the feedback prompt to the right of the screen.
             </p>
             <h3>Your concerns</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Nam impedit eius at quia a quidem quae eum ab repudiandae dolores non aspernatur
-                laudantium obcaecati eaque, magni nobis suscipit inventore iure!
+            <p>If there are any acts of misconduct or negative feedback you'd like to report
+                within our medical facility or on this website, please use this same platform
+                to forward a report.
             </p>
         </div>
         <div class="col">
