@@ -17,22 +17,22 @@
                     <div class="carousel-item active">
                         <img src="img/home.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>First slide label</h5>
-                            <p>Some representative placeholder content for the first slide.</p>
+                            <h5>Hello There!</h5>
+                            <p>Help us help you get the treatment you need.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img src="img/home.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Second slide label</h5>
-                            <p>Some representative placeholder content for the second slide.</p>
+                            <h5>Looking to book an appointment?</h5>
+                            <p>Create an account with us today and have access to our practitioners 24/7.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img src="img/home.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Third slide label</h5>
-                            <p>Some representative placeholder content for the third slide.</p>
+                            <h5>Want to find out more about us?</h5>
+                            <p>Visit the services tab and look at what we offer, or visit the about page for further insight.</p>
                         </div>
                     </div>
                 </div>
@@ -47,8 +47,8 @@
             </div>
         </div>
         <div class="col-md text-md-center">
-            <h1>Title here</h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos asperiores provident minus laborum tempore, dolorem cum placeat commodi nesciunt nobis nisi distinctio ad id vel, autem hic iste molestiae laudantium.</p>
+            <h1>HIT Campus Clinic Online</h1>
+            <p>We're here for you! Assisting you in monitoring and having control over your health and wellbeing.</p>
         </div>
     </div>
     <div class="row">
@@ -61,15 +61,15 @@
                     <img src="img/doctor-1.jpg" class="img-fluid d-none d-md-block" alt="">
                 </div>
                 <div class="col-md-9">
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur autem vel animi voluptate fugit rerum aliquid vero possimus vitae ex, qui laborum quidem quas ad tempore quod, assumenda ratione molestiae!</p>
+                    <p>To offer world standard campus clinical services.</p>
                 </div>
                 <div class="container-fluid headings text-md-center my-2">
-                    <h1>Mission</h1>
+                    <h1>Mission Statement</h1>
                 </div>
                 <div class="container-fluid">
                     <div class="row align-items-md-center">
                         <div class="col-md-9">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur autem vel animi voluptate fugit rerum aliquid vero possimus vitae ex, qui laborum quidem quas ad tempore quod, assumenda ratione molestiae!</p>
+                            <p>To contribute to health and well-being by providing an exceptional service to all patients through integration of clinical practice and research.</p>
                         </div>
                         <div class="col-md-3">
                             <img src="img/doctor-2.jpg" class="img-fluid d-none d-md-block" alt="">
