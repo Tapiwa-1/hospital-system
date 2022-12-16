@@ -8,3 +8,9 @@ Patient
 - View Pending appointments
 - Edit / Delete Pending appointment
 - View Responded Appointments
+
+## Screenshots
+| <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/hitclinic-main.png"/> | <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/hitclinic-login.png"/> |
+| ------------- | ------------- |
+| <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/hitclinic-users.png"/> | <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/hitclinic-register.png"/> |
+
